@@ -2,8 +2,8 @@ Expense Tracker is a Python application for managing your expenses. It offers fe
 
 # Features:
 
-Track expenses by entering details like date, description, category, and price.
-View all expenses and monthly expenses.
-Delete expenses by specifying the expense ID.
-Add new expense categories.
-Visualize expense data in a monthly chart.
+- Track expenses by entering details like date, description, category, and price.
+- View all expenses and monthly expenses.
+- Delete expenses by specifying the expense ID.
+- Add new expense categories.
+- Visualize expense data in a monthly chart.
